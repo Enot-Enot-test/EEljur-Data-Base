@@ -2,7 +2,8 @@
 const CACHE_NAME = 'eeljur-cache-v1';
 const urlsToCache = [
   '/',
-  '/index.html'
+  '/index.html',
+  '/EEljur.html'
 ];
 
 // Устанавливаем Service Worker и кешируем файлы
